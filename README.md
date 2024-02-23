@@ -1,2 +1,13 @@
-# Beecrowd-Solutions
-This repository contains all my solutions to beecrowd problems
+
+# Beecrowd  🐝
+ 
+This repository contains all the solutions i made for beecrowd problems
+
+
+
+
+
+
+## Sumary
+
+ - [Iniciante](https://github.com/mfelipesoares/Beecrowd-Solutions/tree/main/Iniciante)
